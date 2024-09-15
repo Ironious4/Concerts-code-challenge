@@ -56,7 +56,8 @@ Venue.bands(): returns a collection of all bands who performed at the venue.
 
 Band.concerts(): should return a collection of all concerts the band has played.
 Band.venues(): should return a collection of all venues the band has performed at.
-Aggregate and Relationship Methods
+
+## Aggregate and Relationship Methods
 
 ## Concert
 
